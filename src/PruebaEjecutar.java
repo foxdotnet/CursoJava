@@ -17,7 +17,7 @@ public class PruebaEjecutar {
     
     public static void imprimir()
     {
-     double d1 = 10.234324;
+        double d1 = 10.234324;
         double d2 = 20.0;
         double d3 = 30.0;
         double d4 = 30.0;
